@@ -3,12 +3,11 @@
 - 👀 I’m interested in Frontend/Fullstack position
 
 ## Skills
-* 3+ years of experience working in web application development.
-* In-depth knowledge of JavaScript, HTML, CSS, and related technologies.
-* Experience working with 3rd party APIs.
-* Receptive to feedback and are always looking to learn and improve.
-* Confident with Git version control and CI/CD.
-* Experience in developing responsive and friendly UI
+* 5+ years of experience working in web applications development.
+* Backend stack: NodeJS frameworks (Express, Nest, Fastify) and SQL/NoSQL databases.
+* Frontend stack: React, Angular, JQuery, Bootsrap etc...
+* DevOps skills: Docker, Docker compose, Swarm, Vagrant, Ansible, Terraform, K8s
+* Always looking to learn and improve.
 
 ## Contacts
 - 🌱 My website [ cv.mokienko.net ](https://www.cv.mokienko.net)
