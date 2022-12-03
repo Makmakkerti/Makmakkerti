@@ -1,6 +1,6 @@
 ## About me
 - 👋  I am a web developer, with more than 10 years of coding journey. Experienced in web development, deployment and maintenance.
-- 👀 I’m interested in Frontend/Fullstack position
+- 👀 I’m interested in Backend/Fullstack JS developer position
 
 ## Skills
 * 5+ years of experience working in web applications development.
